@@ -1,0 +1,6 @@
+websocket-client
+redis
+numpy
+pandas
+requests
+python-dotenv
